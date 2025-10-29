@@ -15,4 +15,6 @@ My work investigates how **agentic AI** and **human-centered AI design** can be 
 
 Interested in pursuing research on human-centered AI? [Apply here](https://www.zib.de/members/pokutta) (or feel free to reach out directly).
 
+See the research group [here](https://iol.zib.de/research/iol-human.html)
+
 ---
