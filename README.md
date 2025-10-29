@@ -1,16 +1,18 @@
-## Hi there 👋
+## ABOUT 👋
 
-<!--
-**JGonnermann/jgonnermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a postdoctoral researcher at [Zuse Institute Berlin](https://www.zib.de/) working in the [IOL Lab](https://www.zib.de/members/pokutta) led by Sebastian Pokutta, where I a, respomnsible for the research area 'Humans and AI'.
 
-Here are some ideas to get you started:
+### About My Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work investigates how **agentic AI** and **human-centered AI design** can be integrated to create adaptive and personalized systems that support education, learning, and decision-making, ultimately contributing to positive societal impact.
+
+**Research Focus:**
+- Development and evaluation of **large language model (LLM)-based educational tools** and **agentic simulations**
+- Experimental approaches collaborating with schools and industry partners to assess the potential and requirements of AI technologies in authentic educational settings
+- **Socially-aware AI** and the application of AI in **augmented and virtual reality (AR/VR)** environments to enhance learning experiences
+
+### Collaboration
+
+Interested in pursuing research on human-centered AI? [Apply here](https://www.zib.de/members/pokutta) (or feel free to reach out directly).
+
+---
