@@ -1,4 +1,4 @@
-I'm a postdoctoral researcher at [Zuse Institute Berlin](https://www.zib.de/) working in the [IOL Lab](https://www.zib.de/members/pokutta) led by Sebastian Pokutta, where I am responsible for the research area ['Humans and AI'](https://iol.zib.de/research/iol-human.html).
+I'm a postdoctoral researcher at [Zuse Institute Berlin](https://www.zib.de/) working in the [IOL Lab](https://www.zib.de/members/pokutta) led by Sebastian Pokutta, where I am responsible for the research group ['Humans and AI'](https://iol.zib.de/research/iol-human.html).
 
 ### About My Research
 
